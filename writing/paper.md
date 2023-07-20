@@ -10,6 +10,8 @@ TODO: Text added to relevant sections below
 
 ### Introduction
 
+![Dog](https://github.com/LS102-summer2023/project-jjumadinova/blob/main/dog.jpeg)
+
 TODO: This section describes your  research project, including the overall aims and the background motivating your research. Whenever possible, you should use one or more concrete examples and technical diagrams.
 
 It is often useful and necessary to separate the introduction into multiple sections. Several possible sections are proposed below, you can use these or distribute your introductory text into sections in another way.
