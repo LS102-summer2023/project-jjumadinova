@@ -10,6 +10,8 @@ TODO: Text added to relevant sections below
 
 ### Introduction
 
+![Dog](https://github.com/LS102-summer2023/project-jjumadinova/blob/main/dog.jpeg)
+
 TODO: This section describes your  research project, including the overall aims and the background motivating your research. Whenever possible, you should use one or more concrete examples and technical diagrams.
 
 It is often useful and necessary to separate the introduction into multiple sections. Several possible sections are proposed below, you can use these or distribute your introductory text into sections in another way.
@@ -33,6 +35,10 @@ TODO
 TODO: This section includes a broad and detailed review of relevant existing work. The literature review should provide background and context for the reseach project work. The subsections may be organized in whatever manner seems best suited to the material-- chronological, or by topic, or according to some other criteria (e.g., primary versus secondary resources).
 
 If ethical issues are central to this work, you should also address historical and contemporary issues or efforts made to address them.
+
+In [1], authors discuss ...
+
+As was shown in [2], ...
 
 ### Prototype
 
@@ -78,8 +84,8 @@ TODO
 
 TODO: Use IEEE format
 
-[1] ...
+[1] Holzinger, Andreas, Manuel Bruschi, and Wolfgang Eder. "On interactive data visualization of physiological low-cost-sensor data with focus on mental stress." Availability, Reliability, and Security in Information Systems and HCI: IFIP WG 8.4, 8.9, TC 5 International Cross-Domain Conference, CD-ARES 2013, Regensburg, Germany, September 2-6, 2013. Proceedings 8. Springer Berlin Heidelberg, 2013.
 
-[2] ...
+[2] Fan, Fengxian, and Edoardo S. Biagioni. "An approach to data visualization and interpretation for sensor networks." 37th Annual Hawaii International Conference on System Sciences, 2004. Proceedings of the. IEEE, 2004.
 
 ---
